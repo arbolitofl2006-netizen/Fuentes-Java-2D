@@ -1,0 +1,2 @@
+WordArtEditor
+WordArtEditor$WordArtCanvas
